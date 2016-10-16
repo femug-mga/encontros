@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre o FEMUG-ABC
+title: Sobre o FEMUG-MGA
 ---
 ### O que é FEMUG
 
@@ -11,7 +11,3 @@ O evento **NÃO** pode visar o lucro de um ou mais organizadores. É igualmente 
 Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados ao front-end e tecnologias periféricas relacionadas.
 
 *Para maiores informações da uma olhadinha [aqui](https://github.com/femug/femug "FEMUG BR")*
-
-Para contribuir de alguma maneira ou participar acesse [esse link](http://www.meetup.com/pt-BR/femug-abc/ "FEMUG ABC")
-
-Se curtir, entra no nosso [Team no Slack](https://github.com/abc-dev/slack), a maioria das interações do Grupo acontecem por lá! ;D

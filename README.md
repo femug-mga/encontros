@@ -1,6 +1,6 @@
-# Repositório do Site do FEMUG-ABC
+# Repositório do Site do FEMUG-MGA
 
-Se encontrou um bug ou deseja nos enviar uma sugestão, fique a vontade para abrir uma [issue](https://github.com/femug-abc/femug-abc.github.io/issues).
+Se encontrou um bug ou deseja nos enviar uma sugestão, fique a vontade para abrir uma [issue](https://github.com/femug-mga/femug-mga.github.io/issues).
 
 ## Escrevendo para o site
 
