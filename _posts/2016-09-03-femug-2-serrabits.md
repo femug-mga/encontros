@@ -10,6 +10,7 @@ categories: testes observables RxJS
 * Tema: Testes Automatizados
 * Data: 03/09/2016
 
+
 * Palestrante: Geovani de Souza [@geovanisouza92](https://twitter.com/geovanisouza92){:target="_blank"}
 * Tema: Começando com RxJS
 * Data: 03/09/2016

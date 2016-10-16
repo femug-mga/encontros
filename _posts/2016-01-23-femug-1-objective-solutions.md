@@ -10,6 +10,7 @@ categories: stylus api
 * Tema: Introdução a pré-processadores com stylus
 * Data: 23/01/2016
 
+
 * Palestrante: Junior Conte [@juniorconte](https://twitter.com/juniorconte){:target="_blank"}
 * Tema: Você não deveria escrever uma API para isso
 * Data: 23/01/2016
