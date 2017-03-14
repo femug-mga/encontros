@@ -20,7 +20,7 @@ categories: css javascript assíncrono
 * Gravação: [Junior Conte](https://twitter.com/juniorconte){:target="_blank"}
 
 ## Como funcionou?
-Esse encontro foi um dos que mais tivemos boas discussões sobre os temas das apresentações, a galera participou em pesoe além disso, trocarmos ideia sobre a implementação de uma progressive web apps.
+Esse encontro foi um dos que mais tivemos boas discussões sobre os temas das apresentações, a galera participou em peso e além disso, trocamos ideia sobre a implementação de uma progressive web apps.
 
 ## Links úteis
 * [Slides](https://docs.google.com/presentation/d/1SscZa_Yxzp8uE3x83xTFbIfDOkZxfd-H10XQ04hP1GA/edit?usp=sharing){:target="_blank"} - talk @guuibayer
