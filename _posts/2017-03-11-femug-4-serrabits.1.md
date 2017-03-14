@@ -23,7 +23,7 @@ categories: css javascript assíncrono
 Esse encontro foi um dos que mais tivemos boas discussões sobre os temas das apresentações, a galera participou em peso e além disso, trocamos ideia sobre a implementação de uma progressive web apps.
 
 ## Links úteis
-* [Slides](https://docs.google.com/presentation/d/1SscZa_Yxzp8uE3x83xTFbIfDOkZxfd-H10XQ04hP1GA/edit?usp=sharing){:target="_blank"} - talk @guuibayer
-
+* [Slides do Guilherme](https://docs.google.com/presentation/d/1SscZa_Yxzp8uE3x83xTFbIfDOkZxfd-H10XQ04hP1GA/edit?usp=sharing){:target="_blank"} - Do callback hell a async functions
+* [Slides do Julio](https://goo.gl/Yi0WiR){:target="_blank"} - Otimizações CSS - utilizando tasks 
 ## Agradecimentos especiais
 * Gravação: [Junior Conte](https://twitter.com/juniorconte){:target="_blank"} - Sempre se disponibilizando nas gravações do FEMUG Maringá
