@@ -12,7 +12,7 @@ twitter_username:   femugmga
 comments: true
 
 # Site Settings
-baseurl:            "encontros" # Base URL must end WITHOUT a slash, default: ""
+baseurl:            "/encontros" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /:title # Post permalink
 timezone:           America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
