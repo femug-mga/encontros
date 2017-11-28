@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "FEMUG-MGA #5 - UOL - Boa Compra"
+title:      "FEMUG-MGA #5 - UOL BoaCompra"
 date:       2017-06-17
-summary:    Boa Compra
+summary:    BoaCompra
 categories: css javascript serverless elm
 ---
 ## Quem palestrou?
